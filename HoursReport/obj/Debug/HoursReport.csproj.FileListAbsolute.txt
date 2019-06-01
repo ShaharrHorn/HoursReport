@@ -1,0 +1,10 @@
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\bin\Debug\HoursReport.exe
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\bin\Debug\HoursReport.pdb
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\bin\Debug\ExcelLibrary.dll
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Debug\HoursReport.csproj.ResolveComReference.cache
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Debug\HoursReport.Form1.resources
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Debug\HoursReport.Properties.Resources.resources
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Debug\HoursReport.csproj.GenerateResource.Cache
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Debug\HoursReport.exe
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Debug\HoursReport.pdb
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Debug\HoursReport.csprojResolveAssemblyReference.cache

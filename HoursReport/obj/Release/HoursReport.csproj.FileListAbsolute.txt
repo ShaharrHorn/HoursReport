@@ -1,0 +1,8 @@
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\bin\Release\HoursReport.exe
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\bin\Release\HoursReport.pdb
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Release\HoursReport.Form1.resources
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Release\HoursReport.Properties.Resources.resources
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Release\HoursReport.csproj.GenerateResource.Cache
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Release\HoursReport.exe
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Release\HoursReport.pdb
+C:\Users\shahar\documents\visual studio 2015\Projects\HoursReport\HoursReport\obj\Release\HoursReport.csprojResolveAssemblyReference.cache
